@@ -9,7 +9,7 @@ Right now, I am finishing the taught part of my degree.
 
 ----
 
-Here are some of the best free online courses which can boost your ML/DL knowledge 🚀My plan is to get through all of them at some point. I'll skip the repetitive parts ⏰
+Here are some of the best free online courses which can boost your ML/DL knowledge 🚀 My plan is to get through all of them at some point. I'll skip the repetitive parts ⏰
 - English 🇬🇧
   - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) from [NYU](https://www.nyu.edu/admissions.html) by [Yann LeCun](https://twitter.com/ylecun) and [Alfredo Canziani](https://twitter.com/alfcnz) (next on the list ⏭️)
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) from [Stanford](https://www.stanford.edu)
