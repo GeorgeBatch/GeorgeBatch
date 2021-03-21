@@ -3,7 +3,7 @@
 I am a PhD Student in [Health Data Science](https://www.bdi.ox.ac.uk/study/cdt) at Oxford 🎓.
 Right now, I am finishing the taught part of my degree.
 
-- 🔭 I’m currently working on connecting the UK Biobank activity data with potential health outcomes as part of the data challenge.
+- 🔭 I’m currently working on connecting the UK Biobank activity data with potential health outcomes.
 - 🔭🔭 In a few weeks I will start exploring the applications of **Computer Vision** 💻👀 to medical imaging, in particular, to early lung-cancer diagnosis.
 - 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
 
