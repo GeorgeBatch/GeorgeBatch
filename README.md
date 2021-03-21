@@ -22,8 +22,10 @@ Here are some of the best free online courses which can boost your ML/DL knowled
 ----
 
 - 📫 How to reach me
-  - [LinkedIn :link:](https://www.linkedin.com/in/george-batchkala/)
-  - Email: george.batchkala@gmail.com
+  - LinkedIn: [george-batchkala](https://www.linkedin.com/in/george-batchkala/) 🔗
+  - GitHub: [GeorgeBatch](https://github.com/GeorgeBatch) 🔗
+  - Kaggle: [George Batchkala](https://www.kaggle.com/gbatchkala) 🔗
+  - Email: george.batchkala@gmail.com ✉️
 
 <!--
 **GeorgeBatch/GeorgeBatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
