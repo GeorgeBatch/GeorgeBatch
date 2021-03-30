@@ -3,7 +3,7 @@
 I am a PhD Student in [Health Data Science](https://www.bdi.ox.ac.uk/study/cdt) at Oxford 🎓.
 Right now, I am finishing the taught part of my degree.
 
-- 🔭 I’m currently working on connecting the UK Biobank activity data with potential health outcomes as part of the data challenge.
+- 🔭 I’m currently working on connecting the UK Biobank activity data with potential health outcomes.
 - 🔭🔭 In a few weeks I will start exploring the applications of **Computer Vision** 💻👀 to medical imaging, in particular, to early lung-cancer diagnosis.
 - 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
 
@@ -22,8 +22,10 @@ Here are some of the best free online courses which can boost your ML/DL knowled
 ----
 
 - 📫 How to reach me
-  - [LinkedIn :link:](https://www.linkedin.com/in/george-batchkala/)
-  - Email: george.batchkala@gmail.com
+  - LinkedIn: [george-batchkala](https://www.linkedin.com/in/george-batchkala/) 🔗
+  - GitHub: [GeorgeBatch](https://github.com/GeorgeBatch) 🔗
+  - Kaggle: [George Batchkala](https://www.kaggle.com/gbatchkala) 🔗
+  - Email: george.batchkala@gmail.com ✉️
 
 <!--
 **GeorgeBatch/GeorgeBatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
