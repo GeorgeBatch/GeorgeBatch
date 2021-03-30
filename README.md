@@ -16,8 +16,8 @@ Here are some of the best free online courses which can boost your ML/DL knowled
   - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) from [Stanford](https://www.stanford.edu)
 
 - Russian 🇷🇺
-    - [Deep Learning (part 1)](https://stepik.org/course/91157/promo) similar to CS231n (completed ✅, [repository](https://github.com/GeorgeBatch/cv_from_dls))
-    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n (in progress :hourglass:)
+    - [Deep Learning (part 1)](https://stepik.org/course/91157/promo) similar to CS231n ✅- [repository](https://github.com/GeorgeBatch/cv_from_dls)
+    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n :hourglass:
 
 ----
 
