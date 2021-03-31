@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a PhD Student in [Health Data Science](https://www.bdi.ox.ac.uk/study/cdt) at Oxford 🎓.
-Right now, I am finishing the taught part of my degree.
+I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt). I have just finished the taught part of my degree.
 
-- 🔭 I’m currently working on connecting the UK Biobank activity data with potential health outcomes.
-- 🔭🔭 In a few weeks I will start exploring the applications of **Computer Vision** 💻👀 to medical imaging, in particular, to early lung-cancer diagnosis.
+- 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
+- 🔭 On the 12th of April I will start exploring the applications of **Computer Vision** 💻👀 to medical imaging, in particular, to early lung-cancer diagnosis.
 - 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
 
 ----
