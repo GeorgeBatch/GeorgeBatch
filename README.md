@@ -16,7 +16,7 @@ Here are some of the best free online courses which can boost your ML/DL knowled
 
 - Russian 🇷🇺
     - [Deep Learning (part 1)](https://stepik.org/course/91157/promo) similar to CS231n ✅ - [repository](https://github.com/GeorgeBatch/cv_from_dls)
-    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n :hourglass:
+    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n ⏳
 
 ----
 
