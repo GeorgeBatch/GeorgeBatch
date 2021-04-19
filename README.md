@@ -2,7 +2,7 @@
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
 funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
-I am focusing on applications of **Computer Vision** 💻👀 to medical imaging,
+I am focusing on applications of **Computer Vision** 💻👀 and **NLP** 💻💬 to medical imaging,
 in particular, to early lung-cancer diagnosis.
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
