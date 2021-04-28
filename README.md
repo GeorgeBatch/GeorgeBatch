@@ -2,11 +2,11 @@
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
 funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
-I am focusing on applications of **Computer Vision** 💻👀 and **NLP** 💻💬 to medical imaging,
+I am focusing on applications of **Computer Vision** 👀💻  and **NLP** 💬💻  to medical imaging,
 in particular, to early lung-cancer diagnosis.
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
-- 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
+- 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💬💻 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
 
 ----
 
@@ -18,8 +18,8 @@ Here are some of the best free online resources to boost your ML/DL knowledge �
   - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) from [Stanford](https://www.stanford.edu)
 
 - Russian 🇷🇺
-    - [Deep Learning (part 1)](https://stepik.org/course/91157/promo) similar to CS231n ✅ - [repository](https://github.com/GeorgeBatch/cv_from_dls)
-    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n ⏳ - [repository](https://github.com/GeorgeBatch/nlp_from_dls)
+    - [Deep Learning (part 1)](https://stepik.org/course/91157/syllabus) 👀💻  similar to CS231n ✅ - [repository](https://github.com/GeorgeBatch/cv_from_dls)
+    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) 💬💻 similar to CS224n ⏳ - [repository](https://github.com/GeorgeBatch/nlp_from_dls)
 
 ----
 
