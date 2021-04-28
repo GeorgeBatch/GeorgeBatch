@@ -6,14 +6,14 @@ I am focusing on applications of **Computer Vision** 💻👀 and **NLP** 💻�
 in particular, to early lung-cancer diagnosis.
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
-- 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
+- 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💻💬 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
 
 ----
 
-Here are some of the best free online courses which can boost your ML/DL knowledge 🚀 My plan is to get through all of them at some point. I'll skip the repetitive parts ⏰
+Here are some of the best free online resources to boost your ML/DL knowledge 🚀 I am currently doing it, while skipping the repetitive parts ⏰
 
 - English 🇬🇧
-  - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) from [NYU](https://www.nyu.edu/admissions.html) by [Yann LeCun](https://twitter.com/ylecun) and [Alfredo Canziani](https://twitter.com/alfcnz) (next on the list ⏭️)
+  - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) from [NYU](https://www.nyu.edu/admissions.html) by [Yann LeCun](https://twitter.com/ylecun) and [Alfredo Canziani](https://twitter.com/alfcnz) (next on my list ⏭️)
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) from [Stanford](https://www.stanford.edu)
   - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) from [Stanford](https://www.stanford.edu)
 
