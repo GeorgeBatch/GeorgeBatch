@@ -2,8 +2,7 @@
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
 funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
-I am focusing on applications of **Computer Vision** 👀💻  and **NLP** 💬💻  to medical imaging,
-in particular, to early lung-cancer diagnosis.
+I am focusing on applications of **Computer Vision** 👀💻  and **NLP** 💬💻  to improving diagnostics and treaatment of patients with lung-cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
 - 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💬💻 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
