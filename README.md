@@ -24,6 +24,7 @@ Here are some of the best free online resources to boost your ML/DL knowledge �
 
 - 📫 How to reach me
   - LinkedIn: [george-batchkala](https://www.linkedin.com/in/george-batchkala/) 🔗
+  - My page on DART: [george-batchkala](https://dartlunghealth.co.uk/team/george-batchkala/) 🔗
   - GitHub: [GeorgeBatch](https://github.com/GeorgeBatch) 🔗
   - Kaggle: [George Batchkala](https://www.kaggle.com/gbatchkala) 🔗
 
