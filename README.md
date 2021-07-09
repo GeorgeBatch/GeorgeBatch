@@ -2,7 +2,7 @@
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
 funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
-I am focusing on applications of **Computer Vision** 👀💻  and **NLP** 💬💻  to improving diagnostics and treatment of patients with lung cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
+I am focusing on applications of **Computer Vision** 👀💻 to improving diagnostics and treatment of patients with lung cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
 Right now I am simulating parts of the workflow I will use on medical images. Since the medical images are yet to be annotated, I am using natural images from the [COCO dataset](https://cocodataset.org/#home). You can see my work here: [GeorgeBatch/cocoapi](https://github.com/GeorgeBatch/cocoapi).
 
