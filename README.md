@@ -8,6 +8,7 @@ Right now I am simulating parts of the workflow I will use on medical images. Si
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bacholors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
 - 🌱 Separately from my PhD program, I’m currently learning cool **NLP** 💬💻 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
+- 🚀 I also found the YouTube playlist on [Structuring Machine Learning Projects](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b) (Course 3 of the Deep Learning Specialization on Coursera) extremely useful. I started watching the videos to answer some of the questions relating to the multilabel classification project I was working on at the time ([GeorgeBatch/cocoapi](https://github.com/GeorgeBatch/cocoapi)). I liked the explanations and Andrew Ng's delivery style so much that I enrolled and [completed](https://www.coursera.org/account/accomplishments/specialization/4HEL4XDPPGPF) the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 ----
 
