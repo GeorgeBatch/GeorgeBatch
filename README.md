@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
-funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
+supervised by [Professor Jens Rittscher](https://dartlunghealth.co.uk/team/prof-jens-rittscher/), [Dr Tapabrata (Rohan) Chakraborty](https://dartlunghealth.co.uk/team/dr-tapabrata-rohan-chakraborty/), and funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
 I am focusing on applications of **Computer Vision** 👀💻 to improving diagnostics and treatment of patients with lung cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
 If you also want to start working with Histopathology images, but do not have or are waiting for your own data, have a look at the "The Cancer Genome Atlas" ([TCGA](https://portal.gdc.cancer.gov/)) web page. I recently got some experience with downloading diagnostic slides of lung cancer images from there. First I tried [using Google Drive](https://github.com/GeorgeBatch/TCGA-lung-download-GD) and then succeded using [TCGA official client](https://github.com/GeorgeBatch/TCGA_lung).
