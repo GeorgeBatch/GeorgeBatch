@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
-supervised by [Professor Jens Rittscher](https://dartlunghealth.co.uk/team/prof-jens-rittscher/), [Dr Tapabrata (Rohan) Chakraborty](https://dartlunghealth.co.uk/team/dr-tapabrata-rohan-chakraborty/), and funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
+supervised by [Professor Jens Rittscher](https://dartlunghealth.co.uk/team/prof-jens-rittscher/) and funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
 I am focusing on applications of **Computer Vision** 👀💻 to improving diagnostics and treatment of patients with lung cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
 **In September 2022 my first conference [paper](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_12) 📝 got published at MICCAI 2022 CaPTion workshop! 🚀** In our work "Active Data Enrichment by Learning What to Annotate in Digital Pathology", we (1) proposed a new comprehensive annotation protocol for lung cancer pathology, (2) proposed a new metric for comparing how well a retrieval methods can prioritize examples from underrepresented classes, and (3) demonstrated that annotating and adding top-runked examples into the training set results in greater improvements to the algorithm performance  than annotating and adding random examples ([published paper](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_12), [code](https://github.com/GeorgeBatch/active-data-enrichment)). 
@@ -13,7 +13,7 @@ reproducing a CVPR'21 work called "Multiple Instance Captioning: Learning Repres
 If you also want to start working with Histopathology images, but do not have or are waiting for your own data, have a look at the "The Cancer Genome Atlas" ([TCGA](https://portal.gdc.cancer.gov/)) web page. I recently got some experience with downloading diagnostic slides of lung cancer images from there. First I tried [using Google Drive](https://github.com/GeorgeBatch/TCGA-lung-download-GD) and then succeeded using [TCGA official client](https://github.com/GeorgeBatch/TCGA_lung). Another thing you can do if you are lacking medical data is to simulate parts of your future workflow on natural images, e.g. classifying medical images for presence or absence of particular patterns can be similar to classifying natural images for presence or absence of particular objects. I used images from the [COCO dataset](https://cocodataset.org/#home). You can see my work here: [GeorgeBatch/cocoapi](https://github.com/GeorgeBatch/cocoapi).
 
 - 🎓 Previously, I studied [Mathematics and Statistics at Warwick](https://warwick.ac.uk/study/undergraduate/courses/mathsstatsbsc) for my Bachelors and did my [Masters in Statistics at Oxford](http://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/).
-- 🌱 Separately from my PhD program, I am learning cool **NLP** 💬💻 techniques ([repository](https://github.com/GeorgeBatch/nlp_from_dls)) taught by the [Deep Learning School](https://www.dlschool.org/advanced-track) from [MIPT](https://mipt.ru/english/). The course is only taught in Russian 🇷🇺.
+- 🌱 Separately from my PhD program, I learnt cool **CV** and **NLP** techniques taught by the [Deep Learning School](https://dls.samcs.ru/en) from [MIPT](https://mipt.ru/english/). Both courses are only taught in Russian 🇷🇺.
 - 🚀 I also found the YouTube playlist on [Structuring Machine Learning Projects](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b) (Course 3 of the Deep Learning Specialization on Coursera) extremely useful. I started watching the videos to answer some of the questions related to the multilabel classification project I was working on at the time ([GeorgeBatch/cocoapi](https://github.com/GeorgeBatch/cocoapi)). I liked the explanations and Andrew Ng's delivery style so much that I enrolled and [completed](https://www.coursera.org/account/accomplishments/specialization/4HEL4XDPPGPF) the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 ----
@@ -26,8 +26,8 @@ Here are some of the best free online resources to boost your ML/DL knowledge �
   - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) from [Stanford](https://www.stanford.edu)
 
 - Russian 🇷🇺
-    - [Deep Learning (part 1)](https://stepik.org/course/91157/syllabus) similar to CS231n ✅ - [repository](https://github.com/GeorgeBatch/cv_from_dls) 👀 
-    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n ⏳ - [repository](https://github.com/GeorgeBatch/nlp_from_dls) 💬 
+    - [Deep Learning (part 1)](https://stepik.org/course/91157/syllabus) similar to CS231n ✅
+    - [Deep Learning (part 2)](https://stepik.org/course/92488/syllabus) similar to CS224n ⏳
 
 ----
 
