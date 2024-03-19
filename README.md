@@ -1,8 +1,22 @@
 ### Hi there 👋
 
 I am a PhD Student in [Health Data Science at Oxford](https://www.bdi.ox.ac.uk/study/cdt)
-supervised by [Professor Jens Rittscher](https://dartlunghealth.co.uk/team/prof-jens-rittscher/) and funded by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
-I am focusing on applications of **Computer Vision** 👀💻 to improving diagnostics and treatment of patients with lung cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
+supervised by [Professor Jens Rittscher](https://dartlunghealth.co.uk/team/prof-jens-rittscher/) and funded
+by [Professor Fergus Gleeson](https://www.oncology.ox.ac.uk/team/fergus-gleeson).
+I am focusing on applications of **Computer Vision** 👀💻 to improving diagnostics and treatment of patients with lung
+cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (
+see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
+
+**February 2024: my first main conference paper📝 ([code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
+to [ISBI-2024](https://biomedicalimaging.org/2024/) conference!🚀** In
+our work "Accurate Subtyping of Lung
+Cancers by Modelling Class Dependencies", we (1) construct a weakly-supervised multi-label lung cancer histology dataset
+from three public ([TCGA](https://www.cancer.gov/tcga),
+[TCIA-CPTAC](https://wiki.cancerimagingarchive.net/display/Public/CPTAC+Imaging+Proteomics), [DHMC](https://bmirds.github.io/LungCancer/)),
+and one in-house dataset [DART](https://dartlunghealth.co.uk/), (2) propose a class-dependency injection method
+allowing the learning of robust bag representations suitable for multi-label problems under weakly-supervised settings.
+Dataset creation, model building, and training code is available in
+the [dependency-mil](https://github.com/GeorgeBatch/dependency-mil) repository.
 
 **In September 2022 my first conference [paper](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_12) 📝 got published at MICCAI 2022 CaPTion workshop! 🚀** In our work "Active Data Enrichment by Learning What to Annotate in Digital Pathology", we (1) proposed a new comprehensive annotation protocol for lung cancer pathology, (2) proposed a new metric for comparing how well a retrieval methods can prioritize examples from underrepresented classes, and (3) demonstrated that annotating and adding top-runked examples into the training set results in greater improvements to the algorithm performance  than annotating and adding random examples ([published paper](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_12), [code](https://github.com/GeorgeBatch/active-data-enrichment)). 
 
