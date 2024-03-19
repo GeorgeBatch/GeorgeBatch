@@ -49,8 +49,8 @@ Dataset" [DHMC](https://bmirds.github.io/LungCancer/),
 the "The Cancer Genome Atlas" ([TCGA](https://www.cancer.gov/tcga)), and "The Cancer Imaging
 Archive" [TCIA-CPTAC](https://wiki.cancerimagingarchive.net/display/Public/CPTAC+Imaging+Proteomics).
 Downloading large volumes of data is not a trivial task, so I documented my process
-for [TCGA-lung-download-instructions](https://github.com/GeorgeBatch/TCGA-lung-download-instructions),
-[TCIA-CPTAC-download-instructions](https://github.com/GeorgeBatch/TCIA-CPTAC-download-instructions).
+for [TCGA-lung-histology-download](https://github.com/GeorgeBatch/TCGA-lung-histology-download),
+[TCIA-CPTAC-lung-histology-download](https://github.com/GeorgeBatch/TCIA-CPTAC-lung-histology-download).
 
 **Public natural images sources.** Another thing you can do
 if you are lacking medical data is to simulate parts of your future workflow on natural images, e.g. classifying medical
