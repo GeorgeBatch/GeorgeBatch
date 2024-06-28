@@ -7,7 +7,7 @@ I am focusing on applications of **Computer Vision** 👀💻 to improving diagn
 cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (
 see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
-**February 2024: my first main conference paper📝 ([code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
+**February 2024: my first main conference paper ([pre-print](https://ora.ox.ac.uk/objects/uuid:4966840e-ccef-4fbf-b5fb-6cf0376d9aaa) 📝, [code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
 to [ISBI-2024](https://biomedicalimaging.org/2024/) conference!🚀** In
 our work "Accurate Subtyping of Lung
 Cancers by Modelling Class Dependencies", we (1) construct a weakly-supervised multi-label lung cancer histology dataset
@@ -19,7 +19,7 @@ Dataset creation, model building, and training code is available in
 the [dependency-mil](https://github.com/GeorgeBatch/dependency-mil) repository.
 
 **September 2022: my first workshop [paper](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_12)
-📝 ([code](https://github.com/GeorgeBatch/active-data-enrichment) 💻) got
+📝 ([pre-print](https://ora.ox.ac.uk/objects/uuid:160f9962-06c0-441d-a92a-b2a77c4d01c3) 📝, [code](https://github.com/GeorgeBatch/active-data-enrichment) 💻) got
 published at [MICCAI 2022 CaPTion](https://caption-workshop.github.io/) workshop! 🚀** In our work "Active Data
 Enrichment by Learning What to Annotate in
 Digital Pathology", we (1) proposed a new comprehensive annotation protocol for lung cancer pathology, (2) proposed a
