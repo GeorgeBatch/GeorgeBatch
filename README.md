@@ -85,7 +85,7 @@ Here are some of the best free online resources to boost your ML/DL knowledge �
 the repetitive parts ⏰
 
 - English 🇬🇧
-    - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) from [NYU](https://www.nyu.edu/admissions.html)
+    - [Deep Learning](https://atcold.github.io/NYU-DLSP21/) from [NYU](https://www.nyu.edu/admissions.html)
       by [Yann LeCun](https://twitter.com/ylecun) and [Alfredo Canziani](https://twitter.com/alfcnz) (next on my list
       ⏭️)
     - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
