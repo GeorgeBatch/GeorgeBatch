@@ -7,6 +7,12 @@ I am focusing on applications of **Computer Vision** 👀💻 to improving diagn
 cancer as part of the [DART](https://dartlunghealth.co.uk/) lung health project (
 see [my role](https://dartlunghealth.co.uk/team/george-batchkala/) in the project).
 
+**July 2024: my second workshop paper ([pre-print](https://ora.ox.ac.uk/objects/uuid:df7ad16b-f130-4f16-8f7f-aab5de53f111) 📝, [code](https://github.com/GeorgeBatch/LC25000-clean) 💻) got accepted
+to [DEMI-2024](https://demi-workshop.github.io/) workshop of MICCAI conference!🚀** In
+our work "Evaluating histopathology foundation models for few-shot tissue clustering: an application to LC25000 augmented dataset cleaning", we (1) create a pipeline for grouping augmented images using foundation models, (2) release the decontaminated version of LC25000 histopathology dataset, and (3) propose a minimal setup benchmark for evaluating pathology foundation models.
+Cleaned dataset, annotation framework, and evaluation pipeline are available in
+the [LC25000-clean](https://github.com/GeorgeBatch/LC25000-clean) repository.
+
 **February 2024: my first main conference paper ([pre-print](https://ora.ox.ac.uk/objects/uuid:4966840e-ccef-4fbf-b5fb-6cf0376d9aaa) 📝, [code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
 to [ISBI-2024](https://biomedicalimaging.org/2024/) conference!🚀** In
 our work "Accurate Subtyping of Lung
