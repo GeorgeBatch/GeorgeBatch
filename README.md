@@ -13,7 +13,7 @@ our work "Evaluating histopathology foundation models for few-shot tissue cluste
 Cleaned dataset, annotation framework, and evaluation pipeline are available in
 the [LC25000-clean](https://github.com/GeorgeBatch/LC25000-clean) repository.
 
-**February 2024: my first main conference paper ([pre-print](https://ora.ox.ac.uk/objects/uuid:4966840e-ccef-4fbf-b5fb-6cf0376d9aaa) 📝, [code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
+**February 2024: my first main conference [paper](https://ieeexplore.ieee.org/document/10635232) 📝 ([pre-print](https://ora.ox.ac.uk/objects/uuid:4966840e-ccef-4fbf-b5fb-6cf0376d9aaa) 📝, [code](https://github.com/GeorgeBatch/dependency-mil) 💻) got accepted
 to [ISBI-2024](https://biomedicalimaging.org/2024/) conference!🚀** In
 our work "Accurate Subtyping of Lung
 Cancers by Modelling Class Dependencies", we (1) construct a weakly-supervised multi-label lung cancer histology dataset
